@@ -1,5 +1,5 @@
 # 项目简述
-广告图片自动分割。输入一张广告图，自动生成结构化数据集，详细信息见[our website](http://47.98.47.1/LabelMeAnnotationTool/external.html)
+识别广告图片中的产品和文字，自动生成结构化数据集，详细信息见[Our Website](http://47.98.47.1/LabelMeAnnotationTool/external.html)
 
 # 环境
 - Python2.7
